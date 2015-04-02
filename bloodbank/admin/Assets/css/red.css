@@ -1,0 +1,81 @@
+@charset "utf-8";
+h2 { color:#fff; }
+h3 { color:#646464; }
+h4 { color:#323232; }
+h5, h6 { color:#323232; }
+p { color:#888888; }
+.uniqueness *, .creative * { color:#fff; }
+.creative span a { color:#ce3a48; }
+.navigation ul li a { color:#b4b4b4; }
+.navigation ul li:hover, .navigation ul li a.active
+{
+	background:#ce3a48;
+	color:#fff;
+}
+.navigation ul li:hover a small, .navigation ul li a.active small { color:#fff; }
+.navigation ul li:hover a span, .navigation ul li a.active span { color:#fff; }
+.title { background:#3c3c3c; }
+.flex-direction-nav a {background-color:#CE3A48;}
+.point ul li { color:#888888; }
+.side-navigation ul li a
+{
+	color:#fff;
+	background:#969696;
+}
+.side-navigation ul li a:hover, .side-navigation ul li a.selected { background:#ce3a48; }
+#second .col:hover { background:#ce3a48; }
+#second .col:hover * { color:#fff; }
+#second .details .col:hover * { color:#888888; }
+.scrollbar1 .thumb { background:#ce3a48; }
+.pagination ul li a { background:#969696; }
+.pagination ul li a.active { background:#ce3a48; }
+.pagination ul li a:hover { background:#646464; }
+.pagination ul li.prev-btn a, .pagination ul li.next-btn a { background-color:#969696; }
+.pagination ul li.prev-btn a:hover, .pagination ul li.next-btn a:hover { background-color:#646464; }
+.intro { background:#fff; }
+.intro:hover { background:#ce3a48; }
+.intro:hover * { color:#fff !important; }
+.gallery ul li a img.light2 {background:#ce3a48;}
+#team .member span { color:#ce3a48; }
+.blog-comment h6 a { color:#323232; }
+.blog-comment h6 a:hover { color:#ce3a48; }
+div.jp-play-bar, div.jp-volume-bar-value {background:#ce3a48 !important;}
+.box.col-1 { background:#fff; }
+.box.col-1.post, .box.col-1 .blogpost { background:#141414; }
+.blog-comment span { color:#888888; }
+.blog-comment h6 a { color:#323232; }
+.blog-comment h6 a:hover { color:#ce3a48; }
+.comment-like a { color:#888888; }
+#container { background: #EBEBEB; }
+#infscr-loading
+{
+	background: #ce3a48;
+	color: #FFF;
+}
+#Contact address ul li { color:#888888; }
+.contact-title small { color: #888888; }
+.footer { background:#141414; }
+.footer-section span { color:#5a5c5c; }
+.footer-section span a { color:#ce3a48; }
+.footer-section nav { color:#5a5c5c; }
+.footer-section nav ul li { color:#5a5c5c; }
+.footer-section nav ul li a
+{
+	color:#5a5c5c;
+	color:#5a5c5c;
+}
+.footer-section a:hover { color:#ce3a48; }
+#infscr-loading
+{
+	background: #ce3a48;
+	color: #FFF;
+}
+ul#portfolio-filter a:hover, ul#portfolio-filter a.current { color: #fff; }
+ul#portfolio-filter a.current { background-color: #ce3a48; }
+ul#portfolio-list li p { color: #AAA; }
+.scrollbar1 .thumb { background:#ce3a48; }
+.contentssss { background:#333; }
+.overlay-wrap { background:#000; }
+#blog-second .col-1 { background:#fff; }
+
+input[type="submit"] {background-color:#CE3A48;}
